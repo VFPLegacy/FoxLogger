@@ -1,0 +1,4 @@
+name = "FoxLogger"
+type = "prg"
+repo = "https://raw.githubusercontent.com/VFPLegacy/FoxLogger/main/Logger.prg"
+version = "0.0.1"
