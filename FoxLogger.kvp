@@ -1,3 +1,4 @@
+-- FoxLogger
 name = "FoxLogger"
 type = "prg"
 repo = "https://raw.githubusercontent.com/VFPLegacy/FoxLogger/main/Logger.prg"
