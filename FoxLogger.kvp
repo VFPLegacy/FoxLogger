@@ -1,5 +1,4 @@
 name = "FoxLogger"
 type = "prg"
 repo = "https://raw.githubusercontent.com/VFPLegacy/FoxLogger/main/Logger.prg"
-classes = ["Logger"]
 version = "0.0.1"
